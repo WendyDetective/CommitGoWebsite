@@ -1,0 +1,57 @@
+{
+  "app": {
+    "name": "不鸽 (CommitGo)",
+    "slogan": "专注学习，兑换快乐时光",
+    "description": "专为K12学生打造的学习与专注应用，将学习与娱乐巧妙结合，培养自律好习惯",
+    "downloadLinks": {
+      "ios": "#",
+      "android": "#"
+    },
+    "features": [
+      {
+        "title": "任务管理",
+        "description": "查看并管理自建和监护人指派的学习任务，清晰掌握学习进度",
+        "icon": "list"
+      },
+      {
+        "title": "专注学习",
+        "description": "进入专注学习模式，系统会自动记录学习时间并阻止分心应用",
+        "icon": "clock"
+      },
+      {
+        "title": "学习-娱乐兑换",
+        "description": "通过专注学习获取相应的娱乐时间，实现学习与娱乐的平衡",
+        "icon": "exchange"
+      },
+      {
+        "title": "家长协作",
+        "description": "家长可以指派任务、设置奖励，积极参与孩子的学习过程",
+        "icon": "users"
+      }
+    ],
+    "statistics": {
+      "userCount": "10,000+",
+      "focusEfficiencyImprovement": "82%",
+      "parentChildRelationshipImprovement": "75%",
+      "learningInitiativeImprovement": "90%",
+      "recommendationRate": "96%"
+    },
+    "testimonials": [
+      {
+        "name": "王小明",
+        "role": "初二学生",
+        "quote": "作为一名初中生，我之前总是忍不住玩手机游戏，学习效率很低。使用『不鸽』后，我能通过专注学习获得游戏时间，这样既满足了我玩游戏的需求，又大大提高了学习效率。现在我反而期待学习时间，因为知道努力后有奖励！"
+      },
+      {
+        "name": "李女士",
+        "role": "初中生家长",
+        "quote": "作为一位家长，我以前经常因为孩子沉迷手机而苦恼，总是采用强制限制的方式，结果常常引起争执。使用『不鸽』后，我可以设置合理的奖励机制，孩子反而更加自觉学习了。最重要的是，我们之间的关系也变得更加和谐。"
+      },
+      {
+        "name": "张老师",
+        "role": "初中数学教师",
+        "quote": "作为一名班主任，我一直在寻找帮助学生提高学习专注力的方法。『不鸽』APP正是我们需要的工具，我向班上的学生和家长推荐使用后，明显看到学生们的学习态度变得积极主动，课堂参与度也提高了不少。"
+      }
+    ]
+  }
+}
